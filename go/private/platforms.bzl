@@ -54,6 +54,7 @@ GOOS_GOARCH = (
     ("ios", "amd64"),
     ("ios", "arm64"),
     ("js", "wasm"),
+    ("wasip1", "wasm"),
     ("linux", "386"),
     ("linux", "amd64"),
     ("linux", "arm"),
